@@ -1,0 +1,27 @@
+html{
+    padding: 0px;
+    margin: 0px;
+    }
+    .container{
+        width: 500px;
+        margin: 20px;
+        padding: 20px;
+        background-color: #D6AFDC;
+    }
+    .orden{    
+        color: white;
+        display: flex ;
+        flex-direction: row;
+        justify-content: flex-start;
+        list-style: none;
+       
+    }
+    .a{
+        padding: 20px;
+    }
+    
+    .a:hover{
+        background-color: blue;
+        cursor: pointer;
+       }
+    
